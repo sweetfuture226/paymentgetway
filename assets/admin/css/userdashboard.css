@@ -1,0 +1,36 @@
+/*body.user_dashboard{*/
+    /*background: #2C4065;*/
+/*}*/
+/*.user_dashboard .page-header.navbar {*/
+    /*background-color: #FF5B28;*/
+/*}*/
+/*.user_dashboard .page-sidebar, .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover {*/
+    /*background-color: #2C4065;*/
+/*}*/
+/*.user_dashboard .page-sidebar .page-sidebar-menu > li.open > a,*/
+/*.user_dashboard .page-sidebar .page-sidebar-menu > li:hover > a,*/
+/*.user_dashboard .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li.open > a,*/
+/*.user_dashboard .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li:hover > a {*/
+    /*background: #22314d;*/
+/*}*/
+/*!*.user_dashboard .page-sidebar .page-sidebar-menu > li > a,*!*/
+/*!*.user_dashboard .page-sidebar-closed.page-sidebar-fixed .page-sidebar:hover .page-sidebar-menu > li > a {*!*/
+    /*!*color: #ddd;*!*/
+/*!*}*!*/
+/*.user_dashboard .page-header.navbar .menu-toggler {*/
+    /*background-image: url(../img/menu-icon.png);*/
+    /*background-position: center;*/
+    /*background-size: contain;*/
+/*}*/
+
+/*.user_dashboard .page-header.navbar .top-menu .navbar-nav > li.dropdown .dropdown-toggle:hover,*/
+/*.user_dashboard .page-header.navbar .top-menu .navbar-nav > li.dropdown.open .dropdown-toggle {*/
+    /*background-color: #f43a00;*/
+/*}*/
+
+/*.user_dashboard .page-header.navbar .top-menu .navbar-nav > li.dropdown-language > .dropdown-toggle > .langname,*/
+/*.user_dashboard  .page-header.navbar .top-menu .navbar-nav > li.dropdown-user > .dropdown-toggle > .username,*/
+/*.user_dashboard .page-header.navbar .top-menu .navbar-nav > li.dropdown-user > .dropdown-toggle > i {*/
+    /*color: #fff;*/
+    /*font-weight: bold;*/
+/*}*/

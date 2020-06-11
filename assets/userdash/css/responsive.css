@@ -1,0 +1,367 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+    .main-menu ul li {
+    padding: 27px 8px;
+    }
+    .main-menu.nav-fixed ul li {
+    padding: 10px 7px;
+    }
+    .about-community:after {
+    border-left: 572px solid transparent;
+    border-right: 572px solid transparent;
+    }
+    .service-wrapper {
+    padding: 23px;
+    }
+    .price-table-header:after {
+    border-left: 105px solid transparent;
+    border-right: 104px solid transparent;
+    }
+    .payment-method:after {
+    border-left: 572px solid transparent;
+    border-right: 572px solid transparent;
+    }
+    .contact-info {
+    padding: 85px 35px;
+    }
+    input[type="text"] {
+    width: 45%;
+    }
+    input.captcha{
+        width: 100%;
+    }
+    .single-shape-box:before {
+    border-left: 147px solid transparent;
+    border-right: 147px solid transparent;;
+    }
+    .single-shape-box:after {
+    border-left: 147px solid transparent;
+    border-right: 147px solid transparent;;
+    }
+    
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+   nav.main-menu.nav-fixed {
+    display: none;
+    }
+    .main-menu {
+    display: none;
+    }
+    .support-bar {
+    display: none;
+    }
+    .header-section h1 {
+    font-size: 40px;
+    padding-bottom: 50px;
+    }
+    .about-community:after {
+    border-left: 465px solid transparent;
+    border-right: 465px solid transparent;
+    }
+    .price-table-footer {
+    left: 30%;
+    }
+    .price-table {
+    margin-bottom: 50px;
+    }
+    .price-table-header:after {
+    border-left: 170px solid transparent;
+    border-right: 170px solid transparent;
+    }
+    .discunt-text {
+    border-bottom-left-radius: 61px;
+    margin-left: -93px;
+    padding: 70px;
+    }
+    .happy-clients-box {
+    margin-bottom: 50px;
+    }
+    .slider-activation .owl-nav div {
+    left: -10%;
+    }
+    .slider-activation .owl-nav div.owl-next {
+    right: -10%;
+    }
+    .deposit-table {
+    margin-bottom: 50px;
+    }
+
+    .deposit-body {
+        padding: 50px;
+    }
+    table.table.main-table tbody tr:after {
+    width: 64%;
+    left: 130px;
+    }
+    .payment-method:after {
+    border-left: 465px solid transparent;
+    border-right: 465px solid transparent;
+    }
+    .contact-info {
+    padding: 107px 40px;
+    }
+    input[type="text"] {
+    width: 46%;
+    }
+    input.captcha{
+        width: 100%;
+    }
+    .single-shape-box {
+    width: 359px;
+    margin-left: 200px;
+        margin-bottom: 150px;
+    }
+    .slicknav_menu{
+        display: block;
+    }
+    .slicknav_btn{
+       background-color: transparent;
+    }
+    .slicknav_menu .slicknav_menutxt{
+        text-shadow: none;
+    }
+    .slicknav_nav a:hover {
+    border-radius: 0;
+    background: #2C4065;
+    color: #fff;
+    }
+    .slicknav_menu.nav-fixed {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    z-index: 9;
+    box-shadow: 0 0px 5px  #333;
+    }
+    .single-team-member {
+    padding: 20px;
+    margin-top: 20px;
+    }
+    .about-us-content h2 {
+    padding-top: 50px;
+    }
+    .single-team-member:hover .member-hover {
+    bottom: 135px;
+    left: 26%;
+    }
+    .main-login.main-center img {
+    margin-left: 25%;
+    }
+    .slicknav_arrow {
+    display: none;
+    }
+    .mobile-logo {
+        display: block;
+    }
+    .mobile-logo.fixed {
+        position: fixed;
+        z-index: 9;
+    }
+    .main-menu .mobile-logo img{
+        height: 48px!important;
+    }
+}
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+     .support-bar,
+    .main-menu{
+        display: none;
+    }
+    .header-section h1 {
+    font-size: 35px;
+    line-height: 1.9;
+    }
+
+    .header-section h1 span {
+        line-height: 1;
+    }
+
+    .about-community-text {
+        text-align: center;
+        padding-top: 20px;
+    }
+
+    .about-community:after {
+        display: none;
+    }
+
+    .section-title h2 {
+        padding-bottom: 50px;
+        line-height: 1.2;
+    }
+
+    .our-plan .section-title p {
+        color: #333;
+    }
+
+    .price-table {
+        margin-bottom: 50px;
+    }
+
+    .price-table-footer {
+        left: 30%;
+    }
+
+    .discunt-text h3 {
+        font-size: 32px;
+    }
+
+    .discunt-text {
+        margin-left: 0;
+        border-top-right-radius: 0;
+        padding: 80px 0;
+    }
+
+    .contact-info {
+        border-bottom-left-radius: 0;
+        border-top-right-radius: 85px;
+    }
+
+    .happy-clients-box {
+        margin-bottom: 50px;
+    }
+
+    .slider-activation .owl-nav {
+        display: none;
+    }
+
+    .table>tbody>tr>th {
+        padding: 22px 0px;
+    }
+
+    table.table.main-table {
+        margin-bottom: 50px;
+    }
+
+    .payment-logo {
+        text-align: center;
+        margin-top: 50px;
+    }
+
+    .payment-method:after {
+        display: none;
+    }
+    input[type="text"],input[type="email"] {
+    width: 100%;
+    margin-top: 30px
+    }
+    .contact-form .email {
+    margin-left: 0;
+    }
+    p.captcha-code{
+        padding-bottom: 0;
+    }
+    input.captcha{
+        margin-top: 0;
+        margin-bottom: 20px;
+    }
+    .single-shape-box {
+    margin-bottom: 150px;
+    }
+    .slicknav_menu{
+        display: block;
+    }
+    .slicknav_btn{
+       background-color: transparent;
+    }
+    .slicknav_menu .slicknav_menutxt{
+        text-shadow: none;
+    }
+    .slicknav_nav a:hover {
+    border-radius: 0;
+    background: #2C4065;
+    color: #fff;
+    }
+    .slicknav_menu.nav-fixed {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    z-index: 9;
+    box-shadow: 0 0px 5px  #333;
+    }
+    .spinner {
+      margin: 35% auto;
+    }
+    .member .section-title h2 {
+    font-size: 25px;
+    }
+    .single-team-member {
+    padding: 20px;
+    margin-top: 20px;
+    }
+    .single-team-member:hover .member-hover {
+    bottom: 135px;
+    left: 26%;
+    }
+    .slicknav_arrow {
+    display: none;
+    }
+    .mobile-logo {
+        display: block;
+    }
+    .mobile-logo.fixed {
+        position: fixed;
+        z-index: 9;
+    }
+    .input-group-btn{
+        display: block!important;
+        margin-top: 30px!important;
+    }
+
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (max-width: 480px) { 
+    .price-table-footer {
+    left: 35%;
+    }
+    .price-table-header::after {
+    border-left: 150px solid transparent;
+    border-right: 150px solid transparent;
+    }
+    table.table.main-table tbody tr::after {
+    margin-top: 110px;
+    }
+    .deposit-table {
+    margin-bottom: 50px;
+    }
+    table.table.main-table tbody tr::before {
+    left: 24px;
+    }
+    table.table.main-table tbody tr::after {
+    left: 31px;
+    }
+    .testimoanial-top-text p {
+    text-align: center;
+    right: 30%;
+    top: 65px;
+    display: block;
+    margin-top: 30px;
+    }
+    .about-us-content h2 {
+    padding-top: 50px;
+    }
+    .section-title p {
+    line-height: 1.9em;
+    }
+    .single-team-member:hover .member-hover {
+    bottom: 135px;
+    left: 28%;
+    }
+    .main-login.main-center img {
+    margin-left: 0;
+    }
+    .slicknav_arrow {
+    display: none;
+    }
+
+    .mobile-logo {
+        display: block;
+    }
+    .mobile-logo.fixed {
+        position: fixed;
+        z-index: 9;
+    }
+}
+

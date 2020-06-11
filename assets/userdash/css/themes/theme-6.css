@@ -1,0 +1,90 @@
+/*Collect Color Code For Theme Swither*/
+.main-menu,
+.main-menu li ul,
+.about-community,
+.service-wrapper.active,
+.service-wrapper:hover,
+.price-table-header,
+.boxed-btn,
+.asRange .asRange-selected,
+.asRange .asRange-pointer:before,
+.asRange .asRange-pointer:after,
+.discunt-text,
+.happy-clients-box,
+.single-investor-wrapper.color-onvestor,
+.payment-method,
+.scroll-to-top i,
+.scroll-to-top i:hover,
+.deposit-title,
+.slider-activation .owl-nav div:hover,
+.slider-activation .owl-dots div.active,
+.social-link i:hover,
+.panel-default>.panel-heading a[aria-expanded="true"],
+.panel-default>.panel-heading,
+.single-shape-box.color-onvestor,
+input[type="submit"],
+.preloader,
+button.submit-btn:hover,
+button.submit-btn,
+.main-login.main-center img,
+.slicknav_menu,
+.member-hover a:hover,
+.single-team-member:hover .member-name,
+.head-slider .owl-dots div.active,
+.head-slider .owl-nav div:hover
+
+{
+background: #9141A9;
+}
+.support-info i,
+.header-section h1 span,
+.our-plan .section-title h2,
+.color-text,
+.contact-details i,
+.top-investor .color-text,
+.section-title .color-text,
+.testimoanial-top-text p,
+table.table.main-table
+     tr:nth-child(1),
+.slider-activation .owl-nav div,
+.contact-icon,
+p.captcha-code,
+.single-team-member:hover .member-name h4,
+.head-slider .owl-nav div 
+{
+    color: #9141A9;
+}
+.about-community:after,
+.price-table-header:after,
+.color-onvestor.single-shape-box:after
+{
+    border-top-color: #9141A9;
+}
+.happy-clients-icon:before,
+.happy-clients-icon:after,
+.color-onvestor.single-shape-box:before {
+    border-bottom-color: #9141A9;
+}
+.profile-pic img,
+input[type="text"],
+input[type="email"],
+textarea,
+button.submit-btn:hover,
+
+button.submit-btn
+{
+    border-color: #9141A9;
+}
+.slider-activation:before
+{
+    box-shadow: 1px -8px 3px -2px #9141A9;
+}
+.slider-activation:after{
+    box-shadow: 1px 8px 3px -2px #9141A9;
+}
+.single-team-member:hover{
+	border:1px solid #9141A9;
+}
+.single-team-member:hover .member-name h4 {
+    color: #fff;
+}
